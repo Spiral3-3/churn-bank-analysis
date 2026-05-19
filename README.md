@@ -25,7 +25,3 @@ Notre démarche analytique respecte les étapes suivantes :
 
 ## Exécuter le code
 L'ensemble des traitements et la modélisation sont centralisés dans un unique fichier Python. 
-
-```bash
-# 1. Cloner le dépôt
-git clone
