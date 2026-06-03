@@ -5,7 +5,7 @@
 ![Cadre](https://img.shields.io/badge/Cadre-BUT_3_SD_Vannes-success)
 
 ## Contexte du Projet
-Ce dépôt contient le code et les résultats de notre projet sur la prédiction du churn. 
+Ce dépôt contient le code et les résultats du projet sur la prédiction du churn. 
 
 Dans le secteur bancaire, anticiper le départ des clients (Churn) est un enjeu stratégique majeur. Notre travail consiste à élaborer un modèle de machine learning permettant de prédire au mieux la clôture des comptes clients. L'approche se veut orientée "Business" : l'objectif final est d'évaluer l'apport financier et stratégique du modèle pour la banque en gérant efficacement le taux de faux positifs.
 
